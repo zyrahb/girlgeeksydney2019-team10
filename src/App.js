@@ -31,26 +31,26 @@ const herbPushPins = [
   {
     location: [-33.8832331, 151.1983055],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Fred\'s fresh mint leaves', description: 'Contact Fred (+61 465 876 2349) for some mint' },
-    pushPinOption: { title: 'Fred\'s fresh mint leaves', description: 'Pushpin' },
+    infoboxOption: { title: "Fred's fresh mint leaves", description: 'Contact Fred (+61 465 876 2349) for some mint' },
+    pushPinOption: { title: "Fred's fresh mint leaves", description: 'Pushpin' },
   },
   {
     location: [-33.8571441, 151.1902714],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Jane\'s fresh basil leaves', description: 'Contact Jane (+61 465 876 2349) for some basil' },
-    pushPinOption: { title: 'Jane\'s fresh basil leaves', description: 'Pushpin' },
+    infoboxOption: { title: "Jane's fresh basil leaves", description: 'Contact Jane (+61 465 876 2349) for some basil' },
+    pushPinOption: { title: "Jane's fresh basil leaves", description: 'Pushpin' },
   },
   {
     location: [-33.8658159, 151.2046359],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Kelly\'s fresh rosemary leaves', description: 'Contact Kelly (+61 465 876 2311) for some rosemary' },
-    pushPinOption: { title: 'Kelly\'s fresh rosemary leaves', description: 'Pushpin' },
+    infoboxOption: { title: "Kelly's fresh rosemary leaves", description: 'Contact Kelly (+61 465 876 2311) for some rosemary' },
+    pushPinOption: { title: "Kelly's fresh rosemary leaves", description: 'Pushpin' },
   },
   {
     location: [-33.8658114, 151.2046359],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Sam\'s fresh peppermint leaves', description: 'Contact Sam (+61 465 876 2311) for some rosemary' },
-    pushPinOption: { title: 'Sam\'s fresh peppermint leaves', description: 'Pushpin' },
+    infoboxOption: { title: "Sam's fresh peppermint leaves", description: 'Contact Sam (+61 465 876 2311) for some peppermint' },
+    pushPinOption: { title: "Sam's fresh peppermint leaves", description: 'Pushpin' },
   },
   {
     location: [-33.8929838, 151.2458842],
@@ -63,34 +63,34 @@ const flowerPushPins = [
   {
     location: [-33.7957454, 151.1723844],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Infobox Title', description: 'Infobox' },
-    pushPinOption: { title: 'PushPin Title', description: 'Pushpin' },
+    infoboxOption: { title: "Ruby's bright red roses", description: 'Contact Ruby (+61 465 876 2312) for some red roses' },
+    pushPinOption: { title: "Ruby's bright red roses", description: 'Pushpin' },
   },
   {
     location: [-33.8366073, 151.2052079],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Infobox Title', description: 'Infobox' },
-    pushPinOption: { title: 'PushPin Title', description: 'Pushpin' },
+    infoboxOption: { title: "Danny's sweet sunflowers", description: 'Contact Danny (+61 465 876 2313) for some sunflowers' },
+    pushPinOption: { title: "Danny's sweet sunflowers", description: 'Pushpin' },
   }
 ];
 const figPushPins = [
   {
     location: [-33.8402663, 151.1944232],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Infobox Title', description: 'Infobox' },
-    pushPinOption: { title: 'PushPin Title', description: 'Pushpin' },
+    infoboxOption: { title: "Poppy's sweet, juicy figs", description: 'Contact Poppy (+61 465 876 2314) for some sunflowers' },
+    pushPinOption: { title: "Poppy's sweet, juicy figs", description: 'Pushpin' },
   },
   {
     location: [-33.8471022, 151.2093551],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Infobox Title', description: 'Infobox' },
-    pushPinOption: { title: 'PushPin Title', description: 'Pushpin' },
+    infoboxOption: { title: "Karen's delicious figs", description: 'Contact Karen (+61 465 876 2315) for some sunflowers' },
+    pushPinOption: { title: "Karen's delicious figs", description: 'Pushpin' },
   },
   {
     location: [-33.8587523, 151.2058246],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Infobox Title', description: 'Infobox' },
-    pushPinOption: { title: 'PushPin Title', description: 'Pushpin' },
+    infoboxOption: { title: "Chris' nice figs", description: 'Contact Chris (+61 465 876 2316) for some sunflowers' },
+    pushPinOption: { title: "Chris' nice figs", description: 'Pushpin' },
   }
 ];
 
