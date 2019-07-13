@@ -1,0 +1,15 @@
+.customInfobox {
+    background: white;
+    padding: 5px;
+    border-radius: 5px;
+    max-width: 200px;
+}
+.customInfobox .title {
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+.customInfobox img {
+    padding: 5px;
+    max-width: 95%;
+    max-height: 100%;
+}
