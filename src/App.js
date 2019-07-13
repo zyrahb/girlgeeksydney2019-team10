@@ -33,7 +33,7 @@ const lemonPushPins = [
     infoboxOption: { 
       htmlContent: infoboxTemplate({ 
         title: "Zoe's zesty lemons", 
-        description: ['Contact Zoe', '(+61 465 876 2346)', 'for some lemons'], 
+        descriptions: ['Contact Zoe', '(+61 465 876 2346)', 'for some lemons'], 
         image: 'lemons.jpg'
         })
        },
@@ -44,8 +44,8 @@ const lemonPushPins = [
     addHandler: "mouseover",
     infoboxOption: { 
       htmlContent: infoboxTemplate({ 
-        title: ['Contact Ben', '(+61 465 876 2347)', 'for some lemons'], 
-        description: ['Contact Ben', '(+61 465 876 2347)', 'for some lemons'],
+        title: ["Ben's super sour lemons"], 
+        descriptions: ['Contact Ben', '(+61 465 876 2347)', 'for some lemons'],
         image: 'lemons.jpg'
       }) 
     },
@@ -57,7 +57,7 @@ const lemonPushPins = [
     infoboxOption: { 
       htmlContent: infoboxTemplate({ 
       title: "Zyrah's lemonlicious lemons", 
-      description: ['Contact Zyrah', '(+61 465 876 2348)', 'for some lemons'],
+      descriptions: ['Contact Zyrah', '(+61 465 876 2348)', 'for some lemons'],
       image: 'lemons.jpg' 
     }) 
   },
@@ -71,7 +71,7 @@ const herbPushPins = [
     infoboxOption: { 
       htmlContent: infoboxTemplate({ 
         title: "Fred's fresh mint leaves", 
-        description: ['Contact Fred', '(+61 465 876 2349)', 'for some mint'],
+        descriptions: ['Contact Fred', '(+61 465 876 2349)', 'for some mint'],
         image: 'herbs.jpg'
       }) 
     },
@@ -83,7 +83,7 @@ const herbPushPins = [
     infoboxOption: { 
       htmlContent: infoboxTemplate({ 
         title: "Jane's fresh basil leaves", 
-        description: ['Contact Jane', '(+61 465 876 2349)', 'for some basil'],
+        descriptions: ['Contact Jane', '(+61 465 876 2349)', 'for some basil'],
         image: 'herbs.jpg' 
       }) 
     },
@@ -95,7 +95,7 @@ const herbPushPins = [
     infoboxOption: { 
       htmlContent: infoboxTemplate({ 
         title: "Kelly's fresh rosemary leaves", 
-        description: ['Contact Kelly', '(+61 465 876 2311)', 'for some rosemary'],
+        descriptions: ['Contact Kelly', '(+61 465 876 2311)', 'for some rosemary'],
         image: 'herbs.jpg' 
       }) 
     },
@@ -107,7 +107,7 @@ const herbPushPins = [
     infoboxOption: { 
       htmlContent: infoboxTemplate({ 
         title: "Sam's fresh peppermint leaves", 
-        description: ['Contact Sam', '(+61 465 876 2311)', 'for some peppermint'], 
+        descriptions: ['Contact Sam', '(+61 465 876 2311)', 'for some peppermint'], 
         image: 'herbs.jpg' 
       }) 
     },
@@ -119,7 +119,7 @@ const herbPushPins = [
     infoboxOption: { 
       htmlContent: infoboxTemplate({ 
         title: "Josie's fresh coriander leaves", 
-        description: ['Contact Josie', '(+61 465 876 2317)', 'for some coriander'], 
+        descriptions: ['Contact Josie', '(+61 465 876 2317)', 'for some coriander'], 
         image: 'herbs.jpg'  
       }) 
     },
@@ -133,7 +133,7 @@ const flowerPushPins = [
     infoboxOption: { 
       htmlContent: infoboxTemplate({ 
         title: "Ruby's bright red roses", 
-        description: ['Contact Ruby', '(+61 465 876 2312)', 'for some red roses'], 
+        descriptions: ['Contact Ruby', '(+61 465 876 2312)', 'for some red roses'], 
         image: 'roses.jpg'  
       }) 
     },
@@ -144,7 +144,7 @@ const flowerPushPins = [
     addHandler: "mouseover",
     infoboxOption: { htmlContent: infoboxTemplate({ 
       title: "Danny's sweet sunflowers", 
-      description: ['Contact Danny', '(+61 465 876 2313)', 'for some sunflowers'], 
+      descriptions: ['Contact Danny', '(+61 465 876 2313)', 'for some sunflowers'], 
       image: 'sunflowers.jpg'   
     }) 
   },
@@ -157,7 +157,7 @@ const figPushPins = [
     addHandler: "mouseover",
     infoboxOption: { htmlContent: infoboxTemplate({ 
       title: "Poppy's sweet, juicy figs", 
-      description: ['Contact Poppy', '(+61 465 876 2314)', 'for some sunflowers'], 
+      descriptions: ['Contact Poppy', '(+61 465 876 2314)', 'for some sunflowers'], 
       image: 'figs.jpg' 
     }) 
   },
@@ -168,7 +168,7 @@ const figPushPins = [
     addHandler: "mouseover",
     infoboxOption: { htmlContent: infoboxTemplate({ 
       title: "Karen's delicious figs", 
-      description: ['Contact Karen', '(+61 465 876 2315)', 'for some sunflowers'], 
+      descriptions: ['Contact Karen', '(+61 465 876 2315)', 'for some sunflowers'], 
       image: 'figs.jpg'  
     }) 
   },
@@ -179,7 +179,7 @@ const figPushPins = [
     addHandler: "mouseover",
     infoboxOption: { htmlContent: infoboxTemplate({ 
       title: "Chris' nice figs", 
-      description: ['Contact Chris', '(+61 465 876 2316)', 'for some sunflowers'], 
+      descriptions: ['Contact Chris', '(+61 465 876 2316)', 'for some sunflowers'], 
       image: 'figs.jpg' 
     }) 
   },
