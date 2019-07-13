@@ -31,7 +31,7 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="icon"
           type="image/png"
-          href="/img/ZBX32.png"
+          href="img/icons8-apple-tree-48.png"
           sizes="32x32"
         />
         {/* <link
