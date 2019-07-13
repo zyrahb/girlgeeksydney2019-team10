@@ -55,8 +55,8 @@ const herbPushPins = [
   {
     location: [-33.8929838, 151.2458842],
     addHandler: "mouseover",
-    infoboxOption: { title: 'Infobox Title', description: 'Infobox' },
-    pushPinOption: { title: 'PushPin Title', description: 'Pushpin' },
+    infoboxOption: { title: "Josie's fresh coriander leaves", description: 'Contact Josie (+61 465 876 2317) for some coriander' },
+    pushPinOption: { title: "Josie's fresh coriander leaves", description: 'Pushpin' },
   }
 ];
 const flowerPushPins = [
